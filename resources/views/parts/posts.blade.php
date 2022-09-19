@@ -44,9 +44,7 @@
         <div class="col-lg-4 mb-4">
             <div class="view overlay z-depth-1">
                 <img src="{{ asset('mdb/images/manicure.jpg') }}" height="200" width="350" alt="First sample image">
-                 <a>
-                 <div class="mask rgba-white-slight"></div>
-                </a>
+                <a><div class="mask rgba-white-slight"></div></a>
              </div>
         </div>
 

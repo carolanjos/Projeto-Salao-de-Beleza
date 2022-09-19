@@ -3,7 +3,6 @@
 @extends ('parts.navbar')
 
 @section('content')
-
 <div class="container mt-5">
     <section class="text-center">
         <!-- CSS -->

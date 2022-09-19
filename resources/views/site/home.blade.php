@@ -3,7 +3,6 @@
 @extends ('parts.navbar')
 
 @section('content')
-
 <!--PRIMEIRA DIV CONTAINER-->
 <div class="container mt-5">
 

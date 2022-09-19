@@ -1,6 +1,7 @@
 <!--NAVBAR-->
 <nav class="navbar navbar-expand-lg navbar-dark unique-color-dark">
-  <a class="navbar-brand" href="/home"><img src="{{ asset('mdb/images/logo44.png') }}" height="90" width="100" alt="TODABELA" /></a>
+  
+  <a class="navbar-brand" href="/home"><img src="{{ asset('mdb/images/logo1.png') }}" height="90" width="100" alt="TODABELA" /></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -43,6 +44,5 @@
           <input class="form-control mr-sm-2" type="text" placeholder="Pesquisar" aria-label="Pesquisar">
       </div>
     </form>
-
   </div>
 </nav>

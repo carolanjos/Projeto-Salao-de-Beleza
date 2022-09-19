@@ -3,7 +3,6 @@
 @extends ('parts.navbar')
 
 @section('content')
-
 <div class="container z-depth-1 my-5 px-0">
   <section class="p-5 my-md-6 text-center">
     <!-- TÍTULO -->
